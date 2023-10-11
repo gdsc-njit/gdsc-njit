@@ -2,11 +2,12 @@
 <h4 align="center">👨🏼‍💻 Powered by Google for Developers 👩🏼‍💻</h4>
 
 <div align="center">
-  <a href="https://github.com/gdsc-njit/wordle/stargazers"><img src="https://img.shields.io/github/stars/gdsc-njit/wordle" alt="Stars Badge"/></a>
-  <a href="https://github.com/gdsc-njit/gdsc-njit/network/members"><img src="https://img.shields.io/github/forks/gdsc-njit/gdsc-njit" alt="Forks Badge"/></a>
-  <a href="https://github.com/gdsc-njit/wordle/pulls"><img src="https://img.shields.io/github/issues-pr/gdsc-njit/wordle" alt="Pull Requests Badge"/></a>
-  <a href="https://github.com/gdsc-njit/wordle/issues"><img src="https://img.shields.io/github/issues/gdsc-njit/wordle" alt="Issues Badge"/></a>
-  <a href="https://github.com/gdsc-njit/gdsc-njit/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/gdsc-njit/gdsc-njit?color=2b9348"></a>
+  <a href="https://github.com/gdsc-njit/wordle/stargazers"><img src="https://img.shields.io/github/stars/gdsc-njit/wordle?color=ea4335" alt="Stars Badge"/></a>
+  <a href="https://github.com/gdsc-njit/gdsc-njit/network/members"><img src="https://img.shields.io/github/forks/gdsc-njit/gdsc-njit?color=ea4335" alt="Forks Badge"/></a>
+  <a href="https://github.com/NJIT-WIS/project-2-is218-cbt/pulls"><img src="https://img.shields.io/github/issues-pr-closed-raw/NJIT-WIS/project-2-is218-cbt?color=34a853" alt="Pull Requests Badge"/></a>
+  <a href="https://github.com/NJIT-WIS/project-2-is218-cbt/pulls"><img src="https://img.shields.io/github/issues-pr-raw/NJIT-WIS/project-2-is218-cbt?color=f9ab00" alt="Pull Requests Badge"/></a>
+  <a href="https://github.com/gdsc-njit/wordle/issues"><img src="https://img.shields.io/github/issues/gdsc-njit/wordle?color=4285f4" alt="Issues Badge"/></a>
+  <a href="https://github.com/gdsc-njit/gdsc-njit/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/gdsc-njit/gdsc-njit?color=4285f4"></a>
 </div>
 
 
