@@ -2,11 +2,11 @@
 <h4 align="center">👨🏼‍💻 Powered by Google for Developers 👩🏼‍💻</h4>
 
 <div align="center">
-  <a href="https://github.com/gdsc-njit/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/gdsc-njit/gdsc-njit" alt="Stars Badge"/></a>
-  <a href="https://github.com/gdsc-njit/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/gdsc-njit/gdsc-njit" alt="Forks Badge"/></a>
-  <a href="https://github.com/gdsc-njit/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/gdsc-njit/wordle" alt="Pull Requests Badge"/></a>
-  <a href="https://github.com/gdsc-njit/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/gdsc-njit/wordle" alt="Issues Badge"/></a>
-  <a href="https://github.com/gdsc-njit/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/gdsc-njit/gdsc-njit?color=2b9348"></a>
+  <a href="https://github.com/gdsc-njit/wordle/stargazers"><img src="https://img.shields.io/github/stars/gdsc-njit/wordle" alt="Stars Badge"/></a>
+  <a href="https://github.com/gdsc-njit/gdsc-njit/network/members"><img src="https://img.shields.io/github/forks/gdsc-njit/gdsc-njit" alt="Forks Badge"/></a>
+  <a href="https://github.com/gdsc-njit/wordle/pulls"><img src="https://img.shields.io/github/issues-pr/gdsc-njit/wordle" alt="Pull Requests Badge"/></a>
+  <a href="https://github.com/gdsc-njit/wordle/issues"><img src="https://img.shields.io/github/issues/gdsc-njit/wordle" alt="Issues Badge"/></a>
+  <a href="https://github.com/gdsc-njit/gdsc-njit/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/gdsc-njit/gdsc-njit?color=2b9348"></a>
 </div>
 
 
