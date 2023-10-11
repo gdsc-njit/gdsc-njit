@@ -1,22 +1,36 @@
 <h1 align="center">Hi 👋 We are Google Developer Student Club @ NJIT</h1>
-<h3 align="center">👨🏼‍💻 Powered by Google for Developers 👩🏼‍💻</h3>
+<h4 align="center">👨🏼‍💻 Powered by Google for Developers 👩🏼‍💻</h4>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=gdsc-njit" alt="vadorequest" />
-</p>
+<div align="center">
+  <a href="https://github.com/gdsc-njit/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/gdsc-njit/gdsc-njit" alt="Stars Badge"/></a>
+  <a href="https://github.com/gdsc-njit/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/gdsc-njit/gdsc-njit" alt="Forks Badge"/></a>
+  <a href="https://github.com/gdsc-njit/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/gdsc-njit/wordle" alt="Pull Requests Badge"/></a>
+  <a href="https://github.com/gdsc-njit/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/gdsc-njit/wordle" alt="Issues Badge"/></a>
+  <a href="https://github.com/gdsc-njit/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/gdsc-njit/gdsc-njit?color=2b9348"></a>
+</div>
 
 
 ## About Us
 
 🏣&nbsp;&nbsp;We are founded in 2019.
 
-🌱&nbsp;&nbsp;
+🇺🇸&nbsp;&nbsp;We are located in Newark, NJ.
 
-🤝&nbsp;&nbsp;
+🤝&nbsp;&nbsp;We are designed to provide NJIT students with a platform to learn and collaborate.
 
-👀&nbsp;&nbsp;
+👀&nbsp;&nbsp;We currently have 11 members:
 
-💬&nbsp;&nbsp;How to reach me? [**Gmail**](mailto:dsc.njit@gmail.com)
+- **Faculty Advisor**: Professor Matthew Toegel
+- **President**: [Truong Dang](https://www.linkedin.com/in/2dt/)
+- **Vice President**: Kanishk Gudavalli
+- **Secretary**: Vishal Ravikumar
+- **Treasurer**: Paridhi Bhardwaj
+- **Relations Chair**: Mohit Kothari
+- **Project Overseer**: Karim Salem
+- **Design Lead**: Allison Gamarra
+- **Marketing Lead**: Janina Guarqulila
+- **Tech Lead**: Gabriele Muratori
+- **Event Coordinator**: Irina Le
 
 ## Technology
 
@@ -27,8 +41,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="70" height="70"/>
   <img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" alt="java"/>
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" alt="javascript"/>
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" alt="mysql"/>
-  <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-ar21.svg" alt="objc"/>
   <img src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg" alt="php"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git"/>
 </p>
@@ -47,7 +59,6 @@
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="github"/>
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="vscode"/>
-  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg" alt="heroku"/>
 </p>
 
 
