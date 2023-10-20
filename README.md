@@ -23,15 +23,15 @@
 
 - **Faculty Advisor**: Professor Matthew Toegel
 - **President**: [Truong Dang](https://www.linkedin.com/in/2dt/)
-- **Vice President**: Kanishk Gudavalli
-- **Secretary**: Vishal Ravikumar
-- **Treasurer**: Paridhi Bhardwaj
-- **Relations Chair**: Mohit Kothari
-- **Project Overseer**: Karim Salem
-- **Design Lead**: Allison Gamarra
-- **Marketing Lead**: Janina Guarqulila
-- **Tech Lead**: Gabriele Muratori
-- **Event Coordinator**: Irina Le
+- **Vice President**: [Kanishk Gudavalli](https://www.linkedin.com/in/kanishk-gudavalli-68a65a216/)
+- **Secretary**: [Vishal Ravikumar](https://www.linkedin.com/in/vishalravikumar2002/)
+- **Treasurer**: [Paridhi Bhardwaj](https://www.linkedin.com/in/paridhi-bhardwaj-a34608273/)
+- **Relations Chair**: [Mohit Kothari](https://www.linkedin.com/in/mohitkothari0088/)
+- **Project Overseer**: [Karim Salem](https://www.linkedin.com/in/karim-salem300/)
+- **Design Lead**: [Allison Gamarra](https://www.linkedin.com/in/allison-gamarra/)
+- **Marketing Lead**: [Janina Guarqulila](https://www.linkedin.com/in/janinaguarquila/)
+- **Tech Lead**: [Gabriele Muratori](https://www.linkedin.com/in/gabriele-muratori-64738525a/)
+- **Event Coordinator**: [Irina Le](https://www.linkedin.com/in/irinale11/)
 
 ## Technology
 
