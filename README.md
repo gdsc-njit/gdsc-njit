@@ -19,7 +19,7 @@
 
 🤝&nbsp;&nbsp;We are designed to provide NJIT students with a platform to learn and collaborate.
 
-👀&nbsp;&nbsp;We currently have 11 members:
+👀&nbsp;&nbsp;We currently have 10 members:
 
 - **Faculty Advisor**: Professor Matthew Toegel
 - **President**: [Truong Dang](https://www.linkedin.com/in/2dt/)
@@ -27,7 +27,7 @@
 - **Secretary**: [Vishal Ravikumar](https://www.linkedin.com/in/vishalravikumar2002/)
 - **Treasurer**: [Paridhi Bhardwaj](https://www.linkedin.com/in/paridhi-bhardwaj-a34608273/)
 - **Relations Chair**: [Mohit Kothari](https://www.linkedin.com/in/mohitkothari0088/)
-- **Project Overseer**: [Karim Salem](https://www.linkedin.com/in/karim-salem300/)
+- **Project Overseer**: [N/A]()
 - **Design Lead**: [Allison Gamarra](https://www.linkedin.com/in/allison-gamarra/)
 - **Marketing Lead**: [Janina Guarqulila](https://www.linkedin.com/in/janinaguarquila/)
 - **Tech Lead**: [Gabriele Muratori](https://www.linkedin.com/in/gabriele-muratori-64738525a/)
