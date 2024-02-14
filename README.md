@@ -35,10 +35,20 @@
 
 ## Partners
 
+### Companies
+
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/google/google-ar21.svg" alt="google"/>  
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Johnson_and_Johnson_Logo.svg/1200px-Johnson_and_Johnson_Logo.svg.png" alt="jnj" height="50"/>  
   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Guardian_Insurance_logo.svg/1024px-Guardian_Insurance_logo.svg.png" alt="guardianlife" height="50"/>  
+</p>
+
+### Clubs
+
+<p align="left">
+  <img src="https://i.imgur.com/MCV0xgI.png" alt="wics" height="60"/>  
+  <img src="https://media.discordapp.net/attachments/1178193274150867046/1198350035730043052/HACCS_new_logo_fa23-removebg-preview.png?ex=65da44f0&is=65c7cff0&hm=50c99965cebdeca439a5fd2c2f7f02a0c2b15167f121396d8c02796f51d0cb3d&=&format=webp&quality=lossless" alt="haccs" height="60"/>  
+  <img src="" alt="acm" height="60"/>  
 </p>
 
 ## Technology
