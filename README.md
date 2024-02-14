@@ -33,6 +33,14 @@
 - **Tech Lead**: [Gabriele Muratori](https://www.linkedin.com/in/gabriele-muratori-64738525a/)
 - **Event Coordinator**: [Irina Le](https://www.linkedin.com/in/irinale11/)
 
+## Partners
+
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/google/google-ar21.svg" alt="google"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Johnson_and_Johnson_Logo.svg/1200px-Johnson_and_Johnson_Logo.svg.png" alt="jnj" height="50"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Guardian_Insurance_logo.svg/1024px-Guardian_Insurance_logo.svg.png" alt="guardianlife" height="50"/>  
+</p>
+
 ## Technology
 
 #### Programming Languages
@@ -58,6 +66,7 @@
 #### Technologies & Tools
 
 <p align="left">
+  <img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-ar21.svg" alt="googleanalytics"/>
   <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="github"/>
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="vscode"/>
 </p>
