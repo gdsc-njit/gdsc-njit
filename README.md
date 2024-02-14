@@ -24,10 +24,10 @@
 - **Faculty Advisor**: Professor Matthew Toegel
 - **President**: [Truong Dang](https://www.linkedin.com/in/2dt/)
 - **Vice President**: [Kanishk Gudavalli](https://www.linkedin.com/in/kanishk-gudavalli-68a65a216/)
-- **Secretary**: [Vishal Ravikumar](https://www.linkedin.com/in/vishalravikumar2002/)
+- **Secretary**: [Hari Om Sah](https://www.linkedin.com/in/hari-om-sah/)
 - **Treasurer**: [Paridhi Bhardwaj](https://www.linkedin.com/in/paridhi-bhardwaj-a34608273/)
-- **Relations Chair**: [Mohit Kothari](https://www.linkedin.com/in/mohitkothari0088/)
-- **Project Overseer**: [N/A]()
+- **Public Relations**: [Jane Kalla]()
+- **Project Overseer**: [Sunit Shrike](https://www.linkedin.com/in/sunitshirke/)
 - **Design Lead**: [Allison Gamarra](https://www.linkedin.com/in/allison-gamarra/)
 - **Marketing Lead**: [Janina Guarqulila](https://www.linkedin.com/in/janinaguarquila/)
 - **Tech Lead**: [Gabriele Muratori](https://www.linkedin.com/in/gabriele-muratori-64738525a/)
